@@ -1,0 +1,683 @@
+{
+  "exam_id": "murcia-2025-11-tipo1",
+  "center": "Murcia",
+  "date": "2025-11",
+  "tipo": 1,
+  "questions": [
+    {
+      "number": 1,
+      "question": "A la distancia vertical entre la quilla y la línea de flotación se le denomina...",
+      "options": {
+        "a": "Puntal.",
+        "b": "Eslora.",
+        "c": "Francobordo.",
+        "d": "Calado."
+      },
+      "correct": "a",
+      "pdf_page": 1,
+      "topic": "nomenclatura",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 2,
+      "question": "Se denomina barlovento a:",
+      "options": {
+        "a": "La parte por donde sale el sol.",
+        "b": "La parte por donde viene el viento.",
+        "c": "La parte por donde viene la corriente.",
+        "d": "La parte por donde viene la marea."
+      },
+      "correct": "b",
+      "pdf_page": 1,
+      "topic": "nomenclatura",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 3,
+      "question": "La diferencia de calados entre proa y popa se denomina:",
+      "options": {
+        "a": "Francobordo.",
+        "b": "Puntal.",
+        "c": "Calado medio.",
+        "d": "Asiento."
+      },
+      "correct": "d",
+      "pdf_page": 1,
+      "topic": "nomenclatura",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 4,
+      "question": "Cuando una hélice gira en el sentido de las agujas del reloj, mirando desde la popa, se denomina:",
+      "options": {
+        "a": "De paso variable.",
+        "b": "Levógira.",
+        "c": "Dextrógira.",
+        "d": "De palas abatibles."
+      },
+      "correct": "c",
+      "pdf_page": 1,
+      "topic": "nomenclatura",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 5,
+      "question": "¿Cómo se llaman los elementos utilizados en las embarcaciones para proteger el casco de golpes y rozaduras?",
+      "options": {
+        "a": "Manguerotes",
+        "b": "Defensas",
+        "c": "Muertos",
+        "d": "Candeleros"
+      },
+      "correct": "b",
+      "pdf_page": 2,
+      "topic": "amarre",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 6,
+      "question": "El nudo \"llano\" se emplea para:",
+      "options": {
+        "a": "Hacer una gaza",
+        "b": "Reforzar otro cabo desgastado por el roce",
+        "c": "Para amarre de un cabo a una argolla",
+        "d": "Unir dos cabos"
+      },
+      "correct": "d",
+      "pdf_page": 2,
+      "topic": "amarre",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 7,
+      "question": "El movimiento oscilante transversal que se produce en el barco por efecto del viento y/o las olas se denomina...",
+      "options": {
+        "a": "Pantocazo",
+        "b": "Balance",
+        "c": "Cabezada",
+        "d": "Estabilidad transversal"
+      },
+      "correct": "b",
+      "pdf_page": 2,
+      "topic": "seguridad",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 8,
+      "question": "En caso de hipotermia, es conveniente:",
+      "options": {
+        "a": "Mantener al accidentado en lugar fresco y ventilado",
+        "b": "Aplicar bolas de hielo",
+        "c": "Dar friegas de alcohol",
+        "d": "Abrigar al accidentado"
+      },
+      "correct": "d",
+      "pdf_page": 2,
+      "topic": "seguridad",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 9,
+      "question": "Las aguas poco profundas en las que la embarcación corre el riesgo de una varada involuntaria, se denominan aguas:",
+      "options": {
+        "a": "Bravas",
+        "b": "Superficiales",
+        "c": "Someras",
+        "d": "Vivas"
+      },
+      "correct": "c",
+      "pdf_page": 2,
+      "topic": "seguridad",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 10,
+      "question": "¿Cómo se denomina al movimiento de oscilación de la embarcación en el sentido longitudinal (proa-popa) por causas de las olas?",
+      "options": {
+        "a": "Balance",
+        "b": "Arrufo",
+        "c": "Cabezada",
+        "d": "Cuchareo"
+      },
+      "correct": "c",
+      "pdf_page": 2,
+      "topic": "seguridad",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 11,
+      "question": "¿Puede exhibirse la bandera de la Comunidad Autónoma en la embarcación?",
+      "options": {
+        "a": "Solamente cuando se esté navegando por alta mar.",
+        "b": "Exclusivamente el día de la Comunidad Autónoma.",
+        "c": "Siempre junto con la bandera nacional y en lugar menos preferente que esta.",
+        "d": "Nunca, está prohibido."
+      },
+      "correct": "c",
+      "pdf_page": 3,
+      "topic": "legislacion",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 12,
+      "question": "Si navegando avistamos una embarcación con la bandera Alfa izada",
+      "options": {
+        "a": "Nos acercaremos rápidamente pues es señal de pedir socorro.",
+        "b": "Nos alejaremos de ella pues tiene buzo sumergido.",
+        "c": "Sabremos que navega sin problemas.",
+        "d": "Sabremos que está varada sobre una roca."
+      },
+      "correct": "b",
+      "pdf_page": 3,
+      "topic": "legislacion",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 13,
+      "question": "¿Qué marca tiene de tope, dos conos superpuestos con los vértices hacia abajo?",
+      "options": {
+        "a": "Una marca cardinal Norte.",
+        "b": "Una marca cardinal Este.",
+        "c": "Una marca cardinal Sur.",
+        "d": "Una marca cardinal Oeste."
+      },
+      "correct": "c",
+      "pdf_page": 3,
+      "topic": "balizamiento",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 14,
+      "question": "¿Qué marca tiene de tope, dos conos negros superpuestos con los vértices apuntando para arriba?",
+      "options": {
+        "a": "Las marcas especiales.",
+        "b": "Las marcas de peligro aislado.",
+        "c": "Las marcas de canal principal a babor.",
+        "d": "La marca cardinal Norte."
+      },
+      "correct": "d",
+      "pdf_page": 3,
+      "topic": "balizamiento",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 15,
+      "question": "La marca lateral de estribor es:",
+      "options": {
+        "a": "Verde.",
+        "b": "Roja.",
+        "c": "Amarilla.",
+        "d": "Blanca."
+      },
+      "correct": "a",
+      "pdf_page": 3,
+      "topic": "balizamiento",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 16,
+      "question": "¿Cuál es el color de una marca especial?",
+      "options": {
+        "a": "Amarillo.",
+        "b": "Rojo.",
+        "c": "Verde.",
+        "d": "Blanco con franjas verticales rojas."
+      },
+      "correct": "a",
+      "pdf_page": 3,
+      "topic": "balizamiento",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 17,
+      "question": "¿Cuál es la marca de tope de la baliza de aguas navegables?:",
+      "options": {
+        "a": "Dos conos superpuestos con los vértices hacia arriba.",
+        "b": "Una esfera roja.",
+        "c": "Dos esferas negras en vertical.",
+        "d": "Dos conos opuestos por sus vértices."
+      },
+      "correct": "b",
+      "pdf_page": 3,
+      "topic": "balizamiento",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 18,
+      "question": "Un buque de pesca de arrastre faenando, es considerado como....",
+      "options": {
+        "a": "Buque con capacidad de maniobra restringida.",
+        "b": "Buque de propulsión mecánica.",
+        "c": "Buque de pesca.",
+        "d": "Buque de pesca restringida."
+      },
+      "correct": "c",
+      "pdf_page": 4,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 19,
+      "question": "Las reglas de rumbo y gobierno se aplicarán:",
+      "options": {
+        "a": "Cuando exista riesgo de abordaje.",
+        "b": "En cualquier condición de visibilidad.",
+        "c": "Solo durante la noche.",
+        "d": "Solo durante el día."
+      },
+      "correct": "b",
+      "pdf_page": 4,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 20,
+      "question": "En la maniobra que se realice para evitar un abordaje....",
+      "options": {
+        "a": "Deberán evitarse los cambios de rumbo.",
+        "b": "Deberán evitarse los cambios de velocidad.",
+        "c": "Deberán evitarse una sucesión de pequeños cambios de rumbo y/o velocidad.",
+        "d": "Deberán evitarse una sucesión de grandes cambios de rumbo y/o velocidad."
+      },
+      "correct": "c",
+      "pdf_page": 4,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 21,
+      "question": "Los buques que naveguen a lo largo de un paso o canal angosto....",
+      "options": {
+        "a": "Se mantendrán lo más cerca posible del límite exterior del paso o canal que quede por su costado de estribor.",
+        "b": "Fondearán inmediatamente, a la espera de instrucciones.",
+        "c": "Se mantendrán lo más cerca posible del centro del canal.",
+        "d": "Tendrá prioridad de paso el que venga del sur, debiendo caer hacia estribor aquel buque que venga del norte."
+      },
+      "correct": "a",
+      "pdf_page": 4,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 22,
+      "question": "Si navegando de noche observamos por la proa la luz de tope y las luces de costado de otro buque, estaremos ante una situación de....",
+      "options": {
+        "a": "Cruce.",
+        "b": "Alcance.",
+        "c": "Vuelta encontrada.",
+        "d": "De paso por el través de estribor."
+      },
+      "correct": "c",
+      "pdf_page": 4,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 23,
+      "question": "Un buque que \"sigue a rumbo\".",
+      "options": {
+        "a": "Puede modificar su rumbo, si con ello evita el abordaje.",
+        "b": "Nunca debe modificar su rumbo.",
+        "c": "Siempre a de modificar su rumbo.",
+        "d": "Buscará un rumbo que sea opuesto al que llevaba."
+      },
+      "correct": "a",
+      "pdf_page": 4,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 24,
+      "question": "Un buque de propulsión mecánica, en navegación, se mantendrán apartados de la derrota de:",
+      "options": {
+        "a": "Cualquier buque le venga por donde le venga.",
+        "b": "Un buque de pesca que no está pescando.",
+        "c": "Un velero propulsado a motor.",
+        "d": "Un buque sin gobierno."
+      },
+      "correct": "d",
+      "pdf_page": 4,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 25,
+      "question": "REGLA 21. Las luces de costado serán:",
+      "options": {
+        "a": "Roja a estribor y verde a babor.",
+        "b": "Roja a babor y verde a estribor.",
+        "c": "Blancas todo horizonte.",
+        "d": "Amarilla centelleante."
+      },
+      "correct": "b",
+      "pdf_page": 5,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 26,
+      "question": "REGLA 25. ¿Qué luces debe mostrar un buque de vela de eslora superior a 7 metros en navegación?",
+      "options": {
+        "a": "Luces de tope.",
+        "b": "Luz de alcance.",
+        "c": "Luces de costado.",
+        "d": "Luces de costado y alcance."
+      },
+      "correct": "d",
+      "pdf_page": 5,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 27,
+      "question": "REGLA 34. Cuando un buque de propulsión mecánica en navegación da \"dos pitadas cortas\". ¿Qué está indicando?",
+      "options": {
+        "a": "Estoy dando atrás.",
+        "b": "Caigo a babor.",
+        "c": "Caigo a estribor.",
+        "d": "Pretendo alcanzarle por su banda de estribor."
+      },
+      "correct": "b",
+      "pdf_page": 5,
+      "topic": "ripa",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 28,
+      "question": "¿Qué es hacer firme un cabo?",
+      "options": {
+        "a": "Tirar de un cabo de forma manual.",
+        "b": "Tirar de un cabo por medio de una maquinilla.",
+        "c": "Poner tensión en un cabo.",
+        "d": "Fijar un cabo, impidiéndole todo movimiento."
+      },
+      "correct": "d",
+      "pdf_page": 5,
+      "topic": "maniobra",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 29,
+      "question": "Recoger un cabo ordenadamente es:",
+      "options": {
+        "a": "Tomar vueltas.",
+        "b": "Adujar.",
+        "c": "Amollar.",
+        "d": "Lascar."
+      },
+      "correct": "b",
+      "pdf_page": 5,
+      "topic": "maniobra",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 30,
+      "question": "El Servicio Radio-Médico español funciona:",
+      "options": {
+        "a": "Continuado de 08:00 a 18:00",
+        "b": "De lunes a domingos de 07:00 a 22:00",
+        "c": "Continuado las 24 horas",
+        "d": "Continuado de 07:00 a 22:00"
+      },
+      "correct": "c",
+      "pdf_page": 5,
+      "topic": "emergencias",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 31,
+      "question": "Si eliminamos el calor para reducir la temperatura del combustible, estaremos apagando un incendio por...",
+      "options": {
+        "a": "Sofocación.",
+        "b": "Dispersión.",
+        "c": "Enfriamiento.",
+        "d": "Inhibición de la reacción en cadena."
+      },
+      "correct": "c",
+      "pdf_page": 5,
+      "topic": "emergencias",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 32,
+      "question": "¿Qué elementos forman el llamado tetraedro del fuego?",
+      "options": {
+        "a": "Combustible, oxígeno, comburente y reacción en cadena.",
+        "b": "Combustible, calor, metano y reacción en cadena.",
+        "c": "Combustible, comburente, energía de activación y reacción en cadena.",
+        "d": "Nitrógeno, oxígeno, calor y reacción en cadena."
+      },
+      "correct": "c",
+      "pdf_page": 6,
+      "topic": "emergencias",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 33,
+      "question": "El instrumento utilizado para medir la presión atmosférica es:",
+      "options": {
+        "a": "El anemómetro.",
+        "b": "El psicrómetro.",
+        "c": "El barómetro.",
+        "d": "El termómetro húmedo."
+      },
+      "correct": "c",
+      "pdf_page": 6,
+      "topic": "meteorologia",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 34,
+      "question": "En un mapa meteorológico, las isóbaras son:",
+      "options": {
+        "a": "Líneas que unen puntos de igual temperatura.",
+        "b": "Líneas que unen puntos en los que la presión ha variado la misma cantidad de milibares.",
+        "c": "Líneas que unen puntos de igual profundidad.",
+        "d": "Líneas que unen puntos de igual presión a nivel del mar."
+      },
+      "correct": "d",
+      "pdf_page": 6,
+      "topic": "meteorologia",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 35,
+      "question": "¿Qué parámetro del viento nos indica el catavientos?",
+      "options": {
+        "a": "La dirección.",
+        "b": "La duración.",
+        "c": "La persistencia.",
+        "d": "El fetch."
+      },
+      "correct": "a",
+      "pdf_page": 6,
+      "topic": "meteorologia",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 36,
+      "question": "El tiempo que el viento sopla, sobre el mar, en la misma dirección y con la misma intensidad, se llama:",
+      "options": {
+        "a": "Intensidad.",
+        "b": "Persistencia.",
+        "c": "Fetch.",
+        "d": "Virulencia."
+      },
+      "correct": "b",
+      "pdf_page": 6,
+      "topic": "meteorologia",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 37,
+      "question": "Un portulano que a modo de ventana va inserto en una carta y que destaca ampliando un puerto, fondeadero o un lugar de interés para la navegación, se le llama en cartografía:",
+      "options": {
+        "a": "Un señalamiento.",
+        "b": "Un paquete.",
+        "c": "Un cartucho.",
+        "d": "Un detalle."
+      },
+      "correct": "c",
+      "pdf_page": 6,
+      "topic": "navegacion",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 38,
+      "question": "La publicación de los derroteros, libros de faros y las cartas de navegación en España, le corresponde al...",
+      "options": {
+        "a": "Observatorio Marítimo Español.",
+        "b": "Departamento Marítimo Costero del Ministerio de Fomento.",
+        "c": "Instituto Hidrográfico de la Marina.",
+        "d": "Centro Nacional de Cartografía y Ayudas a la Navegación."
+      },
+      "correct": "c",
+      "pdf_page": 6,
+      "topic": "navegacion",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 39,
+      "question": "Las distancias en las cartas náuticas, se miden en:",
+      "options": {
+        "a": "La escala de latitudes.",
+        "b": "La escala de longitudes.",
+        "c": "En el meridiano opuesto.",
+        "d": "En el paralelo."
+      },
+      "correct": "a",
+      "pdf_page": 7,
+      "topic": "navegacion",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 40,
+      "question": "Una milla náutica equivale a:",
+      "options": {
+        "a": "1832 m",
+        "b": "1842 m",
+        "c": "1852 m",
+        "d": "1862 m"
+      },
+      "correct": "c",
+      "pdf_page": 7,
+      "topic": "navegacion",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 41,
+      "question": "El instrumento que nos proporciona la velocidad de nuestra embarcación se denomina...",
+      "options": {
+        "a": "Escandallo.",
+        "b": "Tacómetro.",
+        "c": "Corredera.",
+        "d": "Velocímetro."
+      },
+      "correct": "c",
+      "pdf_page": 7,
+      "topic": "navegacion",
+      "ripa_rule": null,
+      "requires_chart": false
+    },
+    {
+      "number": 42,
+      "question": "A HRB = 1000 nos encontramos situados sobre la línea de oposición de los faros: Isla de Tarifa y Punta Cires. Simultáneamente tomamos distancia al faro de Punta Alcázar = 6 millas. ¿Qué posición tendremos en ese instante?",
+      "options": {
+        "a": "35º 57,5’N - 005º 36,6’W",
+        "b": "35º 53,6’N - 005º 29,7’W",
+        "c": "35º 56,8’N - 005º 31,8’W",
+        "d": "35º 52,6’N - 005º 34,7’W"
+      },
+      "correct": "c",
+      "pdf_page": 7,
+      "topic": "carta",
+      "ripa_rule": null,
+      "requires_chart": true
+    },
+    {
+      "number": 43,
+      "question": "Nos encontramos en la oposición de Punta Europa y Punta Almina, con nuestra proa al Faro de Punta Europa. ¿Cuál es nuestro rumbo?",
+      "options": {
+        "a": "335º",
+        "b": "340º",
+        "c": "345º",
+        "d": "350º"
+      },
+      "correct": "b",
+      "pdf_page": 7,
+      "topic": "carta",
+      "ripa_rule": null,
+      "requires_chart": true
+    },
+    {
+      "number": 44,
+      "question": "Situados sobre la línea de la enfilación de los faros: Isla de Tarifa y Punta Paloma, tenemos en ese instante al faro de Punta Alcázar por nuestro Sur verdadero. ¿a qué distancia tendremos al faro de Punta Carnero en ese momento?",
+      "options": {
+        "a": "7 millas náuticas",
+        "b": "9 millas náuticas",
+        "c": "11 millas náuticas",
+        "d": "13 millas náuticas"
+      },
+      "correct": "b",
+      "pdf_page": 7,
+      "topic": "carta",
+      "ripa_rule": null,
+      "requires_chart": true
+    },
+    {
+      "number": 45,
+      "question": "A HRB 11:00 nos encontramos sobre la línea de la oposición de los faros de Punta Almina y Punta Europa y obtenemos distancia al faro de Punta Carnero = 6 millas. Desde esa posición, damos rumbo para pasar a 3' al Ev de Punta Almina, teniendo en cuenta que no hay viento ni corriente. Calcule que Rumbo de aguja deberemos de poner, sabiendo que la corrección total es de 5º NE:",
+      "options": {
+        "a": "162º",
+        "b": "152º",
+        "c": "142º",
+        "d": "132º"
+      },
+      "correct": "b",
+      "pdf_page": 8,
+      "topic": "carta",
+      "ripa_rule": null,
+      "requires_chart": true
+    }
+  ]
+}

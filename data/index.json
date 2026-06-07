@@ -1,0 +1,50 @@
+{
+  "exams": [
+    {
+      "id": "murcia-2025-11-tipo1",
+      "center": "Murcia",
+      "date": "2025-11",
+      "tipo": 1,
+      "questions_file": "murcia-2025-11-tipo1.json",
+      "pdf_file": "murcia-2025-11-tipo1.pdf"
+    },
+    {
+      "id": "murcia-2025-03-tipo1",
+      "center": "Murcia",
+      "date": "2025-03",
+      "tipo": 1,
+      "questions_file": "murcia-2025-03-tipo1.json",
+      "pdf_file": "murcia-2025-03-tipo1.pdf"
+    },
+    {
+      "id": "murcia-2024-11-tipo1",
+      "center": "Murcia",
+      "date": "2024-11",
+      "tipo": 1,
+      "questions_file": "murcia-2024-11-tipo1.json",
+      "pdf_file": "murcia-2024-11-tipo1.pdf"
+    },
+    {
+      "id": "murcia-2024-06-tipo1",
+      "center": "Murcia",
+      "date": "2024-06",
+      "tipo": 1,
+      "questions_file": "murcia-2024-06-tipo1.json",
+      "pdf_file": "murcia-2024-06-tipo1.pdf"
+    }
+  ],
+  "topics": [
+    { "slug": "nomenclatura", "label": "Nomenclatura náutica", "questions_per_exam": 4 },
+    { "slug": "amarre",       "label": "Elementos de amarre y fondeo", "questions_per_exam": 2 },
+    { "slug": "seguridad",    "label": "Seguridad", "questions_per_exam": 4 },
+    { "slug": "legislacion",  "label": "Legislación", "questions_per_exam": 2 },
+    { "slug": "balizamiento", "label": "Balizamiento", "questions_per_exam": 5, "min_correct": 3 },
+    { "slug": "ripa",         "label": "Reglamento (RIPA)", "questions_per_exam": 10, "min_correct": 5 },
+    { "slug": "maniobra",     "label": "Maniobra", "questions_per_exam": 2 },
+    { "slug": "emergencias",  "label": "Emergencias en el mar", "questions_per_exam": 3 },
+    { "slug": "meteorologia", "label": "Meteorología", "questions_per_exam": 4 },
+    { "slug": "navegacion",   "label": "Teoría de la navegación", "questions_per_exam": 5 },
+    { "slug": "carta",        "label": "Carta de Navegación", "questions_per_exam": 4, "min_correct": 2 }
+  ],
+  "pass_criteria": { "total_min": 32 }
+}
