@@ -6,7 +6,9 @@
   "questions": [
     {
       "number": 1,
-      "question": "Asiento negativo es...",
+      "topic": "nomenclatura",
+      "pdf_page": 1,
+      "question": "Asiento negativo es…",
       "options": {
         "a": "Cuando el calado de proa es mayor que el calado de popa.",
         "b": "Cuando el calado de popa es mayor que el calado de proa.",
@@ -14,13 +16,13 @@
         "d": "Las respuestas a) y c) son correctas."
       },
       "correct": "a",
-      "pdf_page": 1,
-      "topic": "nomenclatura",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 2,
+      "topic": "nomenclatura",
+      "pdf_page": 1,
       "question": "Las amuras son:",
       "options": {
         "a": "Partes curvas de los costados, en las proximidades de la proa.",
@@ -29,13 +31,13 @@
         "d": "Cada una de las mitades en las que queda dividido el buque por la línea de crujía."
       },
       "correct": "a",
-      "pdf_page": 1,
-      "topic": "nomenclatura",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 3,
+      "topic": "nomenclatura",
+      "pdf_page": 1,
       "question": "Los refuerzos transversales en la estructura del casco de un barco son:",
       "options": {
         "a": "Los trancaniles.",
@@ -44,13 +46,13 @@
         "d": "Las quillas del balance."
       },
       "correct": "c",
-      "pdf_page": 1,
-      "topic": "nomenclatura",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 4,
+      "topic": "nomenclatura",
+      "pdf_page": 1,
       "question": "Los refuerzos que unen de lado a lado los extremos de las cuadernas, dando soporte a la cubierta, se llaman:",
       "options": {
         "a": "Bordas.",
@@ -59,13 +61,13 @@
         "d": "Trancaniles."
       },
       "correct": "c",
-      "pdf_page": 1,
-      "topic": "nomenclatura",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 5,
+      "topic": "amarre",
+      "pdf_page": 2,
       "question": "Nudo que se utiliza, habitualmente, para unir cabos de grosor similar",
       "options": {
         "a": "As de guía.",
@@ -74,28 +76,28 @@
         "d": "Vuelta de rezón."
       },
       "correct": "b",
-      "pdf_page": 2,
-      "topic": "amarre",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 6,
+      "topic": "amarre",
+      "pdf_page": 2,
       "question": "Si queremos amarrar una defensa al pasamanos utilizaremos un",
       "options": {
         "a": "As de guía.",
         "b": "Ballestrinque.",
         "c": "Nudo llano.",
-        "d": "Vuelta de rezón."
+        "d": "Vuelta de rezón. Unidad teórica 3 : SEGURIDAD"
       },
       "correct": "b",
-      "pdf_page": 2,
-      "topic": "amarre",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 7,
+      "topic": "seguridad",
+      "pdf_page": 2,
       "question": "El balance es un movimiento:",
       "options": {
         "a": "Longitudinal.",
@@ -104,14 +106,14 @@
         "d": "Del codaste popel."
       },
       "correct": "b",
-      "pdf_page": 2,
-      "topic": "seguridad",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 8,
-      "question": "Apagaremos los aparatos eléctricos, como medida preventiva.....",
+      "topic": "seguridad",
+      "pdf_page": 2,
+      "question": "Apagaremos los aparatos eléctricos, como medida preventiva…..",
       "options": {
         "a": "Cuando realicemos la maniobra de Boutakow.",
         "b": "Mientras esperamos que nos remolquen.",
@@ -119,13 +121,13 @@
         "d": "En caso de niebla."
       },
       "correct": "c",
-      "pdf_page": 2,
-      "topic": "seguridad",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 9,
+      "topic": "seguridad",
+      "pdf_page": 2,
       "question": "¿Cuáles serían las dos principales acciones a ejecutar si se navega por aguas someras?",
       "options": {
         "a": "Reducir la velocidad y controlar frecuentemente la sonda.",
@@ -134,28 +136,28 @@
         "d": "Izar el reflector radar y moderar la velocidad."
       },
       "correct": "a",
-      "pdf_page": 2,
-      "topic": "seguridad",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 10,
-      "question": "¿Cada cuánto tiempo deberá reemplazarse el material pirotécnico?",
+      "topic": "seguridad",
+      "pdf_page": 2,
+      "question": "¿Cada cuánto tiempo deberá reemplazarse el material pirotécnico?:",
       "options": {
         "a": "Cuando lo indique el certificado de navegabilidad.",
         "b": "Cuando lo indique la fecha de caducidad de cada elemento.",
         "c": "Al pasar la ITB.",
-        "d": "Cuando lo indique el certificado de despacho de la Capitanía Marítima."
+        "d": "Cuando lo indique el certificado de despacho de la Capitanía Marítima. Unidad teórica 4 : LEGISLACIÓN"
       },
       "correct": "b",
-      "pdf_page": 2,
-      "topic": "seguridad",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 11,
+      "topic": "legislacion",
+      "pdf_page": 2,
       "question": "¿Se puede navegar en una zona de baño NO balizada?",
       "options": {
         "a": "No, en las zonas de baño no se puede navegar. Son para bañarse.",
@@ -164,29 +166,29 @@
         "d": "Sí, pero únicamente si se va a fondear la embarcación."
       },
       "correct": "c",
-      "pdf_page": 2,
-      "topic": "legislacion",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 12,
+      "topic": "legislacion",
+      "pdf_page": 3,
       "question": "Una embarcación que tiene buzos sumergidos en sus proximidades lo indicará:",
       "options": {
         "a": "Con una bandera roja.",
         "b": "Con unas aletas colgadas del palo.",
         "c": "Con un cesto en la proa del barco.",
-        "d": "Con una bandera blanca y azul terminada en picos."
+        "d": "Con una bandera blanca y azul terminada en picos. Unidad teórica 5 : BALIZAMIENTO"
       },
-      "correct": "d",
-      "pdf_page": 3,
-      "topic": "legislacion",
+      "correct": "c",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 13,
-      "question": "Cuando llegamos a puerto desde la mar, las luces que debemos dejar por babor son....",
+      "topic": "balizamiento",
+      "pdf_page": 3,
+      "question": "Cuando llegamos a puerto desde la mar, las luces que debemos dejar por babor son….",
       "options": {
         "a": "Verdes.",
         "b": "Rojas.",
@@ -194,13 +196,13 @@
         "d": "Azules."
       },
       "correct": "b",
-      "pdf_page": 3,
-      "topic": "balizamiento",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 14,
+      "topic": "balizamiento",
+      "pdf_page": 3,
       "question": "¿Cuál es la marca de tope de las balizas de marcas cardinales?",
       "options": {
         "a": "Dos bolas negras.",
@@ -209,13 +211,13 @@
         "d": "Un cono negro."
       },
       "correct": "b",
-      "pdf_page": 3,
-      "topic": "balizamiento",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 15,
+      "topic": "balizamiento",
+      "pdf_page": 3,
       "question": "Un espeque de color negro con una franja central roja, nos indica la existencia de:",
       "options": {
         "a": "Aguas navegables.",
@@ -224,13 +226,13 @@
         "d": "Peligro sumergido."
       },
       "correct": "c",
-      "pdf_page": 3,
-      "topic": "balizamiento",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 16,
+      "topic": "balizamiento",
+      "pdf_page": 3,
       "question": "¿Qué marca está pintada con franjas verticales rojas y blancas?",
       "options": {
         "a": "Ninguna.",
@@ -239,13 +241,13 @@
         "d": "La de peligro aislado."
       },
       "correct": "c",
-      "pdf_page": 3,
-      "topic": "balizamiento",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 17,
+      "topic": "balizamiento",
+      "pdf_page": 3,
       "question": "¿Qué forma deben tener las marcas especiales?",
       "options": {
         "a": "De castillete o de espeque.",
@@ -253,14 +255,14 @@
         "c": "Cualquiera siempre que no se confundan con las demás marcas para la navegación.",
         "d": "De castillete, espeque o cónicas."
       },
-      "correct": "a",
-      "pdf_page": 3,
-      "topic": "balizamiento",
+      "correct": "c",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 18,
+      "topic": "ripa",
+      "pdf_page": 4,
       "question": "Regla 3. Se entenderá que los buques están a la vista uno del otro únicamente cuando",
       "options": {
         "a": "uno pueda ser observado por radar desde el otro.",
@@ -269,14 +271,14 @@
         "d": "uno pueda ser observado por dos tripulantes como mínimo desde el otro."
       },
       "correct": "c",
-      "pdf_page": 4,
-      "topic": "ripa",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 19,
-      "question": "Según la Regla 7 del Reglamento Internacional para prevenir los Abordajes en la Mar (RIPA), se considerará que existe riesgo de abordaje si.....",
+      "topic": "ripa",
+      "pdf_page": 4,
+      "question": "Según la Regla 7 del Reglamento Internacional para prevenir los Abordajes en la Mar (RIPA), se considerará que existe riesgo de abordaje si…..",
       "options": {
         "a": "La demora de un buque que se aproxima no varía de forma apreciable.",
         "b": "La velocidad de ambos buques no varía.",
@@ -284,14 +286,14 @@
         "d": "Ninguna de las respuestas anteriores es correcta."
       },
       "correct": "a",
-      "pdf_page": 4,
-      "topic": "ripa",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 20,
-      "question": "Regla 20. Las reglas relativas a “luces y marcas” ....",
+      "topic": "ripa",
+      "pdf_page": 4,
+      "question": "Regla 20. Las reglas relativas a “luces y marcas” …",
       "options": {
         "a": "Se deben cumplir de noche.",
         "b": "Deben cumplirse en todas las condiciones meteorológicas.",
@@ -299,13 +301,13 @@
         "d": "Todas las respuestas anteriores son falsas."
       },
       "correct": "b",
-      "pdf_page": 4,
-      "topic": "ripa",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 21,
+      "topic": "ripa",
+      "pdf_page": 4,
       "question": "Regla 24. Cuando un buque que empuje y un buque empujado estén unidos mediante una conexión rígida, formando una unidad compuesta, serán considerados:",
       "options": {
         "a": "Un buque sin gobierno.",
@@ -314,14 +316,14 @@
         "d": "Dos buques de propulsión mecánica."
       },
       "correct": "b",
-      "pdf_page": 4,
-      "topic": "ripa",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 22,
-      "question": "Regla 26. La marca que debe mostrar de DÍA un barco dedicado a la pesca es:",
+      "topic": "ripa",
+      "pdf_page": 4,
+      "question": "Regla 26. La marca que debe mostrar de DÍA un barco dedicado a la pesca es…",
       "options": {
         "a": "Una marca bicónica",
         "b": "Dos conos opuestos por sus vértices.",
@@ -329,28 +331,28 @@
         "d": "Todas las respuestas son válidas."
       },
       "correct": "b",
-      "pdf_page": 4,
-      "topic": "ripa",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 23,
+      "topic": "ripa",
+      "pdf_page": 4,
       "question": "Regla 28. ¿Qué indica un buque que tiene tres luces rojas todo horizonte en línea vertical?",
       "options": {
         "a": "Buque restringido por su calado.",
-        "b": "Buque caballero.",
+        "b": "Buque cablero.",
         "c": "Buque remolcador con capacidad de maniobra restringida.",
         "d": "Peligro: antenas de radar."
       },
       "correct": "a",
-      "pdf_page": 4,
-      "topic": "ripa",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 24,
+      "topic": "ripa",
+      "pdf_page": 4,
       "question": "Regla 30. Los buques fondeados exhibirán en el lugar más visible:",
       "options": {
         "a": "En la parte de proa, una luz roja todo horizonte o una bola negra.",
@@ -359,13 +361,13 @@
         "d": "En la parte de proa, una luz blanca todo horizonte o una bola negra."
       },
       "correct": "d",
-      "pdf_page": 4,
-      "topic": "ripa",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 25,
+      "topic": "ripa",
+      "pdf_page": 5,
       "question": "Regla 32. Una pitada larga tiene una duración aproximada de:",
       "options": {
         "a": "Cuatro a seis segundos.",
@@ -373,14 +375,14 @@
         "c": "Dos a tres segundos.",
         "d": "Siete a ocho segundos."
       },
-      "correct": "c",
-      "pdf_page": 5,
-      "topic": "ripa",
+      "correct": "a",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 26,
+      "topic": "ripa",
+      "pdf_page": 5,
       "question": "Regla 34. Cuando un buque de propulsión mecánica en navegación da \"dos pitadas cortas\" para indicar su maniobra, significa que:",
       "options": {
         "a": "Cae a estribor.",
@@ -388,59 +390,59 @@
         "c": "Va a realizar una ciaboga.",
         "d": "Cae a babor."
       },
-      "correct": "b",
-      "pdf_page": 5,
-      "topic": "ripa",
+      "correct": "d",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 27,
+      "topic": "ripa",
+      "pdf_page": 5,
       "question": "Avistamos una luz con densa humareda de color naranja ¿Qué indica?",
       "options": {
         "a": "Ejercicios militares.",
         "b": "Prohibición.",
         "c": "Incendio a bordo.",
-        "d": "Peligro y necesidad de auxilio."
+        "d": "Peligro y necesidad de auxilio. Unidad teórica 7 : MANIOBRA"
       },
-      "correct": "d",
-      "pdf_page": 5,
-      "topic": "ripa",
+      "correct": "c",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 28,
+      "topic": "maniobra",
+      "pdf_page": 5,
       "question": "La arrancada de una embarcación es:",
       "options": {
-        "a": "Lo que se arrastra del fondo.",
+        "a": "Lo que se arrastra del fondo",
         "b": "La velocidad y/o movimiento de la embarcación.",
         "c": "El desplazamiento máximo.",
         "d": "Ninguna de las anteriores es correcta."
       },
       "correct": "b",
-      "pdf_page": 5,
-      "topic": "maniobra",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 29,
+      "topic": "maniobra",
+      "pdf_page": 5,
       "question": "¿A qué tipo de barco afectará más el viento en una maniobra?",
       "options": {
         "a": "A los que tienen mucha obra muerta.",
         "b": "A los de mayor manga.",
         "c": "A los de mayor eslora.",
-        "d": "A los que tienen mucha obra viva."
+        "d": "A los que tienen mucha obra viva. Unidad teórica 8 : EMERGENCIAS EN EL MAR"
       },
       "correct": "a",
-      "pdf_page": 5,
-      "topic": "maniobra",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 30,
+      "topic": "emergencias",
+      "pdf_page": 5,
       "question": "¿Por dónde se producen con más frecuencia las vías de agua en una embarcación?",
       "options": {
         "a": "Por los orificios practicados en la obra muerta del casco.",
@@ -449,14 +451,14 @@
         "d": "Por los orificios practicados en los mamparos."
       },
       "correct": "c",
-      "pdf_page": 5,
-      "topic": "emergencias",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 31,
-      "question": "Los fuegos de clase B son.....",
+      "topic": "emergencias",
+      "pdf_page": 5,
+      "question": "Los fuegos de clase B son…..",
       "options": {
         "a": "Aquellos que implican metales combustibles.",
         "b": "Aquellos que implican gases inflamables.",
@@ -464,28 +466,28 @@
         "d": "Aquellos que surgen de líquidos inflamables."
       },
       "correct": "d",
-      "pdf_page": 5,
-      "topic": "emergencias",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 32,
+      "topic": "emergencias",
+      "pdf_page": 6,
       "question": "¿Cuál de las siguientes acciones es la más recomendable cuando se produce una insolación?",
       "options": {
         "a": "Dar al paciente bebidas muy frías a grandes sorbos.",
         "b": "Tomar la temperatura cada diez minutos hasta que haya descendido dos o tres grados.",
         "c": "Trasladar la víctima a un lugar fresco y ventilado.",
-        "d": "Todas las respuestas son correctas."
+        "d": "Todas las respuestas son correctas. Unidad teórica 9 : METEOROLOGÍA"
       },
       "correct": "c",
-      "pdf_page": 6,
-      "topic": "emergencias",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 33,
+      "topic": "meteorologia",
+      "pdf_page": 6,
       "question": "Los boletines meteorológicos los podremos obtener a través de:",
       "options": {
         "a": "Los Centros de Coordinación de Salvamento, en los canales establecidos para cada Centro.",
@@ -494,28 +496,28 @@
         "d": "Las Capitanías Marítimas por el canal 16."
       },
       "correct": "a",
-      "pdf_page": 6,
-      "topic": "meteorologia",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 34,
+      "topic": "meteorologia",
+      "pdf_page": 6,
       "question": "¿Qué aparato es el que mide y registra la temperatura?",
       "options": {
         "a": "El termómetro.",
         "b": "El barómetro.",
         "c": "El termógrafo.",
-        "d": "El barógrafo."
+        "d": "El barógrafo"
       },
       "correct": "c",
-      "pdf_page": 6,
-      "topic": "meteorologia",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 35,
+      "topic": "meteorologia",
+      "pdf_page": 6,
       "question": "Una formación isobárica en la que la presión atmosférica aumenta conforme nos acercamos a su centro es:",
       "options": {
         "a": "Un anticiclón.",
@@ -524,28 +526,28 @@
         "d": "Un frente cálido."
       },
       "correct": "a",
-      "pdf_page": 6,
-      "topic": "meteorologia",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 36,
+      "topic": "meteorologia",
+      "pdf_page": 6,
       "question": "Definimos racha como:",
       "options": {
         "a": "El aumento brusco y momentáneo de la velocidad del viento.",
         "b": "Un golpe de viento.",
         "c": "El número de horas que ha soplado el viento en la misma dirección sobre la mar.",
-        "d": "El cambio en la dirección del viento."
+        "d": "El cambio en la dirección del viento. Unidad teórica 10 : TEORÍA DE NAVEGACIÓN"
       },
       "correct": "a",
-      "pdf_page": 6,
-      "topic": "meteorologia",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 37,
+      "topic": "navegacion",
+      "pdf_page": 6,
       "question": "El Ecuador es:",
       "options": {
         "a": "El círculo máximo de la esfera terrestre perpendicular al eje de la tierra.",
@@ -554,14 +556,14 @@
         "d": "Las respuestas b) y c) son correctas."
       },
       "correct": "a",
-      "pdf_page": 6,
-      "topic": "navegacion",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 38,
-      "question": "El valor de la declinación magnética varía con....",
+      "topic": "navegacion",
+      "pdf_page": 6,
+      "question": "El valor de la declinación magnética varía con…",
       "options": {
         "a": "El rumbo al que naveguemos.",
         "b": "La velocidad del buque en ese momento.",
@@ -569,13 +571,13 @@
         "d": "La distancia a la costa en ese momento."
       },
       "correct": "c",
-      "pdf_page": 6,
-      "topic": "navegacion",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 39,
+      "topic": "navegacion",
+      "pdf_page": 7,
       "question": "El ángulo medido entre el Norte verdadero y la línea proa-popa del buque se denomina:",
       "options": {
         "a": "Rumbo magnético.",
@@ -584,13 +586,13 @@
         "d": "Rumbo verdadero."
       },
       "correct": "d",
-      "pdf_page": 7,
-      "topic": "navegacion",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 40,
+      "topic": "navegacion",
+      "pdf_page": 7,
       "question": "¿Qué línea de posición es más fiable?",
       "options": {
         "a": "El veril de sonda.",
@@ -599,58 +601,58 @@
         "d": "La marcación."
       },
       "correct": "b",
-      "pdf_page": 7,
-      "topic": "navegacion",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 41,
+      "topic": "navegacion",
+      "pdf_page": 7,
       "question": "Se ve un faro de noche, se identifica por:",
       "options": {
         "a": "Su altura.",
         "b": "El color de su luz.",
         "c": "El color de su luz y ritmo.",
-        "d": "Su altura y el color de su luz."
+        "d": "Su altura y el color de su luz. Unidad teórica 11 : CARTA DE NAVEGACIÓN"
       },
       "correct": "c",
-      "pdf_page": 7,
-      "topic": "navegacion",
       "ripa_rule": null,
       "requires_chart": false
     },
     {
       "number": 42,
-      "question": "A HRB 10:00 estarnos en las coordenadas de un punto -A- 35° 45'N - 006°15'W y damos rumbo necesario para dirigirnos a otro punto -B- de coordenadas 36° 00'N - 006° 00'W, con una variación local de 2° NW y un desvío de aguja de -6°. Calcular rumbo de aguja:",
-      "options": {
-        "a": "034°",
-        "b": "043°",
-        "c": "048°",
-        "d": "053°"
-      },
-      "correct": "b",
-      "pdf_page": 7,
       "topic": "carta",
+      "pdf_page": 7,
+      "question": "A HRB 10:00 estarnos en las coordenadas de un punto -A- 35º 45’N - 006°15’W y damos rumbo necesario para dirigirnos a otro punto -B- de coordenadas 36º 00’N – 006º 00’W, con una variación local de 2º NW y un desvío de aguja de -6º. Calcular rumbo de aguja:",
+      "options": {
+        "a": "034º",
+        "b": "043º",
+        "c": "048º",
+        "d": "053º"
+      },
+      "correct": "c",
       "ripa_rule": null,
       "requires_chart": true
     },
     {
       "number": 43,
-      "question": "A Hora del Reloj de Bitácora (HRB) = 08:30 navegamos al Ra = 096°, Ct = 6° NW, y en ese instante tenemos por la proa al faro de Punta de Gracia y por nuestro través de babor, al faro de Trafalgar. ¿En qué posición nos encontramos?",
-      "options": {
-        "a": "36° 05.4' N - 006° 02.0' W",
-        "b": "36° 07.5' N - 006° 04.1' W",
-        "c": "36° 08.5' N - 006° 06.8' W",
-        "d": "36° 00.0' N - 006° 00.0' W"
-      },
-      "correct": "b",
-      "pdf_page": 7,
       "topic": "carta",
+      "pdf_page": 7,
+      "question": "A Hora del Reloj de Bitácora (HRB)= 08:30 navegamos al Ra = 096º, Ct= 6° NW, y en ese instante tenemos por la proa al faro de Punta de Gracia y por nuestro través de babor, al faro de Trafalgar. ¿En qué posición nos encontramos?",
+      "options": {
+        "a": "36º 05,4' N - 006º 02,0' W",
+        "b": "36º 07,5' N - 006º 04,1' W",
+        "c": "36º 08,5' N - 006º 06,8' W",
+        "d": "36º 00,0' N - 006º 00,0' W"
+      },
+      "correct": "a",
       "ripa_rule": null,
       "requires_chart": true
     },
     {
       "number": 44,
+      "topic": "carta",
+      "pdf_page": 7,
       "question": "Situados, a HRB: 10h55m, en la línea que une Cabo Espartel y Cabo Trafalgar y a 10 millas del puerto de Barbate (extremo muelle), ponemos rumbo verdadero al puerto de Tánger. ¿A qué hora llegaremos a Tánger si nuestra velocidad es de 12 nudos?",
       "options": {
         "a": "12h30m",
@@ -659,23 +661,21 @@
         "d": "12h25m"
       },
       "correct": "b",
-      "pdf_page": 7,
-      "topic": "carta",
       "ripa_rule": null,
       "requires_chart": true
     },
     {
       "number": 45,
+      "topic": "carta",
+      "pdf_page": 8,
       "question": "Situados en posición A: Latitud: 35º50’N / Longitud: 06º10’W, ponemos rumbo verdadero al puerto de Barbate (extremo muelle). ¿Qué rumbo verdadero debemos poner?",
       "options": {
         "a": "035º",
         "b": "030º",
         "c": "025º",
-        "d": "037º"
+        "d": "037º ESPACIO PARA OPERACIONES"
       },
       "correct": "b",
-      "pdf_page": 8,
-      "topic": "carta",
       "ripa_rule": null,
       "requires_chart": true
     }
