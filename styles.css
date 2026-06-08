@@ -196,6 +196,7 @@ button { cursor: pointer; font-family: inherit; }
   flex-wrap: wrap;
   gap: 0.5rem;
 }
+.q-back { font-size: 0.82rem; padding: 0.15rem 0.5rem; }
 .q-meta { color: var(--text-muted); font-size: 0.85rem; }
 .q-pdf-link { color: var(--accent); font-size: 0.82rem; text-decoration: none; }
 .q-pdf-link:hover { text-decoration: underline; }
@@ -345,3 +346,53 @@ button { cursor: pointer; font-family: inherit; }
   .stats-strip { flex-direction: column; align-items: center; gap: 0.4rem; }
   .summary h2 { font-size: 1.6rem; }
 }
+
+/* ── Heatmap ── */
+.heatmap-page { max-width: 700px; margin: 0 auto; padding: 1.5rem 1rem 3rem; }
+
+.heatmap-nav { display: flex; align-items: center; gap: 1rem; margin-bottom: 1.2rem; }
+.heatmap-nav h2 { font-size: 1.4rem; }
+
+.hm-legend {
+  display: flex; gap: 1.2rem; margin-bottom: 1.2rem;
+  font-size: 0.85rem; color: var(--text-muted);
+}
+.hm-legend-item { display: flex; align-items: center; gap: 0.4rem; }
+.hm-legend .hm-cell { display: inline-block; width: 14px; height: 14px; border-radius: 3px; flex-shrink: 0; }
+
+.hm-scroll { overflow-x: auto; }
+
+.hm-table { border-collapse: collapse; font-size: 0.8rem; }
+
+.hm-qnum-header, .hm-exam-header {
+  padding: 0.3rem 0.5rem; text-align: center;
+  color: var(--text-muted); font-weight: 600; white-space: nowrap;
+}
+.hm-qnum-header { text-align: left; }
+
+.hm-topic-row .hm-topic-label {
+  padding: 0.6rem 0.4rem 0.3rem;
+  font-size: 0.75rem; font-weight: 700;
+  color: var(--accent); text-transform: uppercase; letter-spacing: 0.05em;
+}
+
+.hm-qnum {
+  padding: 0.2rem 0.6rem 0.2rem 0.2rem;
+  color: var(--text-muted); font-size: 0.75rem; text-align: right;
+  white-space: nowrap;
+}
+
+.hm-cell {
+  width: 28px; height: 20px;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+  cursor: default;
+}
+td.hm-cell { padding: 2px; }
+.hm-cell.hm-correct  { background: var(--correct); border-color: var(--correct); }
+.hm-cell.hm-wrong    { background: var(--wrong);   border-color: var(--wrong); }
+.hm-cell.hm-unseen   { background: var(--surface2); }
+.hm-cell.hm-missing  { background: transparent; border-color: transparent; }
+
+td.hm-cell[data-qid] { cursor: pointer; }
+td.hm-cell[data-qid]:hover { filter: brightness(1.3); outline: 2px solid var(--accent); }

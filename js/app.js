@@ -1,6 +1,7 @@
 import { loadIndex, loadAllExams, getAllQuestions, getQuestionsByTopic, shuffle, formatExamLabel } from './data.js';
 import { loadState, getStats, getReviewPool, exportProgress, importProgress, resetProgress } from './state.js';
 import { startQuiz } from './quiz.js';
+import { renderHeatmap } from './heatmap.js';
 
 const root = document.getElementById('app');
 
@@ -46,6 +47,11 @@ function showHome(index) {
           <h2>Repasar fallos</h2>
           <p>${stats.reviewPool === 0 ? 'No tienes preguntas pendientes' : `${stats.reviewPool} preguntas con últimas respuestas incorrectas`}</p>
         </div>
+        <div class="mode-card" id="card-heatmap">
+          <div class="mode-icon">🗺️</div>
+          <h2>Mapa de progreso</h2>
+          <p>Visualiza qué preguntas has respondido bien, mal o no has visto</p>
+        </div>
       </div>
 
       <footer class="home-footer">
@@ -63,6 +69,8 @@ function showHome(index) {
     if (stats.reviewPool === 0) return;
     startReview(index);
   });
+
+  document.getElementById('card-heatmap').addEventListener('click', () => showHeatmap(index));
 
   document.getElementById('btn-export').addEventListener('click', () => {
     const blob = new Blob([exportProgress()], { type: 'application/json' });
@@ -162,6 +170,15 @@ function showExamPicker(index) {
       const sorted = allQs.sort((a, b) => a.number - b.number);
       startQuiz(root, sorted, 'exam', index.topics, () => showHome(index));
     });
+  });
+}
+
+function showHeatmap(index) {
+  renderHeatmap(root, index, () => showHome(index), (qid) => {
+    const all = getAllQuestions();
+    const q = all.find(q => q.id === qid);
+    if (!q) return;
+    startQuiz(root, [q], 'topic', index.topics, () => showHeatmap(index));
   });
 }
 

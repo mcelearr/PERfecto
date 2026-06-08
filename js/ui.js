@@ -4,6 +4,7 @@ export function renderQuestion(container, q, qIndex, total, onAnswer, signal) {
 
   container.innerHTML = `
     <div class="q-header">
+      <button class="btn-back q-back" id="btn-q-back">← Volver</button>
       <span class="q-meta">${header}</span>
       <a class="q-pdf-link" href="${pdfUrl}" target="_blank" rel="noopener">Ver PDF →</a>
     </div>
@@ -48,6 +49,10 @@ export function renderQuestion(container, q, qIndex, total, onAnswer, signal) {
     nextBtn.focus();
     onAnswer(key, isCorrect);
   }
+
+  container.querySelector('#btn-q-back').addEventListener('click', () => {
+    container.dispatchEvent(new CustomEvent('quit'));
+  }, { signal });
 
   optBtns.forEach(btn => btn.addEventListener('click', () => answer(btn.dataset.key)));
 

@@ -30,6 +30,7 @@ export function startQuiz(container, questions, mode, topicData, onHome) {
     container.addEventListener('keydown', e => {
       if (e.key === 'Escape') { controller.abort(); onHome(); }
     }, { signal });
+    container.addEventListener('quit', () => { controller.abort(); onHome(); }, { once: true, signal });
   }
 
   function showSummary() {
