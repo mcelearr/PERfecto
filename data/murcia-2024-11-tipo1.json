@@ -88,7 +88,7 @@
         "a": "Que el ancla queda firme en el fondo.",
         "b": "Que el ancla se enreda en la cadena.",
         "c": "Que el ancla se suelta y se pierde en el fondo.",
-        "d": "Que el ancla es arrastrada por el fondo. Unidad teórica 3 : SEGURIDAD"
+        "d": "Que el ancla es arrastrada por el fondo. Unidad teórica"
       },
       "correct": "d",
       "ripa_rule": null,
