@@ -90,7 +90,7 @@
         "c": "Que el ancla se suelta y se pierde en el fondo.",
         "d": "Que el ancla es arrastrada por el fondo. Unidad teórica 3 : SEGURIDAD"
       },
-      "correct": "c",
+      "correct": "d",
       "ripa_rule": null,
       "requires_chart": false
     },
