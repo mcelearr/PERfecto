@@ -180,7 +180,7 @@
         "c": "Con un cesto en la proa del barco.",
         "d": "Con una bandera blanca y azul terminada en picos. Unidad teórica 5 : BALIZAMIENTO"
       },
-      "correct": "c",
+      "correct": "d",
       "ripa_rule": null,
       "requires_chart": false
     },
