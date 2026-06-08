@@ -90,7 +90,7 @@
         "c": "Para amarre de un cabo a una argolla.",
         "d": "Unir dos cabos. Unidad teórica 3 : SEGURIDAD"
       },
-      "correct": "c",
+      "correct": "d",
       "ripa_rule": null,
       "requires_chart": false
     },
